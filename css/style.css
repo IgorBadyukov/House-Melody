@@ -101,6 +101,10 @@ body {
     align-items: center;
 }
 
+path.current-floor {
+    opacity: 1;
+}
+
 .counter-button {
     background: #fff;
     border: none;
